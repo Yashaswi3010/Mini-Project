@@ -1,2 +1,2 @@
 # Mini-Project
-## Database for hospitals and ventilators in the city.
+## Basic model for dattabase for hospitals and ventilators in the city.
